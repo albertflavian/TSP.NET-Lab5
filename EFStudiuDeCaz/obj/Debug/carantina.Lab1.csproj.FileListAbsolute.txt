@@ -1,0 +1,11 @@
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\carantina.Lab1.exe.config
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\carantina.Lab1.exe
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\carantina.Lab1.pdb
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\EntityFramework.dll
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\EntityFramework.SqlServer.dll
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\EntityFramework.xml
+E:\work\TSP.NET\carantina.Lab1\bin\Debug\EntityFramework.SqlServer.xml
+E:\work\TSP.NET\carantina.Lab1\obj\Debug\carantina.Lab1.csprojAssemblyReference.cache
+E:\work\TSP.NET\carantina.Lab1\obj\Debug\carantina.Lab1.csproj.CopyComplete
+E:\work\TSP.NET\carantina.Lab1\obj\Debug\carantina.Lab1.exe
+E:\work\TSP.NET\carantina.Lab1\obj\Debug\carantina.Lab1.pdb
